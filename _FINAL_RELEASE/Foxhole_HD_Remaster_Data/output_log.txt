@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8253
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
+Loading C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kath-\Documents\foxhole_hd_remaster\FoxHole_HD_Remaster\Builds\Full build with scoreboard fix\Foxhole_HD_Remaster_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.142026 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2e80 -> priority: 1 
+  Thread -> id: 8f4 -> priority: 1 
+  Thread -> id: 34f0 -> priority: 1 
+  Thread -> id: 1064 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.696796 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 0.518716 ms (FindLiveObjects: 0.028839 ms CreateObjectMapping: 0.026469 ms MarkObjects: 0.338173 ms  DeleteObjects: 0.124049 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.790519 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 0.553086 ms (FindLiveObjects: 0.026864 ms CreateObjectMapping: 0.026469 ms MarkObjects: 0.489876 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.667360 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1111.
+Total: 1.314371 ms (FindLiveObjects: 0.077037 ms CreateObjectMapping: 0.047407 ms MarkObjects: 0.555852 ms  DeleteObjects: 0.634074 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.452940 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 3.709237 ms (FindLiveObjects: 0.028839 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.472494 ms  DeleteObjects: 3.176298 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652642 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 0.650272 ms (FindLiveObjects: 0.029234 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.583506 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797630 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 0.494222 ms (FindLiveObjects: 0.025679 ms CreateObjectMapping: 0.027259 ms MarkObjects: 0.424296 ms  DeleteObjects: 0.016592 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.687012 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 0.650667 ms (FindLiveObjects: 0.028839 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.582716 ms  DeleteObjects: 0.009876 ms)
+
