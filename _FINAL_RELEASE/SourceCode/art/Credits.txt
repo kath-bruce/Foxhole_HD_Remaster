@@ -1,0 +1,17 @@
+Forest skybox - Emil Persson - https://opengameart.org/content/forest-skyboxes
+
+Crate texture (jpg) - jitspoe - https://www.filterforge.com/filters/9452.html
+
+Water texture (jpg) - bgfons.com - http://bgfons.com/download/2378
+
+Grass texture (jpg) - 100kr - https://www.flickr.com/photos/100kr/209708058/sizes/o/
+(WAS SLIGHTLY MODIFIED IN GAME)
+
+Creative commons license - https://creativecommons.org/licenses/by/3.0/
+			 - https://creativecommons.org/licenses/by/3.0/legalcode
+			 - https://creativecommons.org/licenses/by/2.0/
+			 - https://creativecommons.org/licenses/by/2.0/legalcode
+
+Bgfons.com License - Attribution-NonCommercial 4.0 International 
+		   - http://bgfons.com/license
+
