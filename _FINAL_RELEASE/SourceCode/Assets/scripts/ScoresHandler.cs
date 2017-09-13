@@ -8,7 +8,7 @@ public static class ScoresHandler
     {
         try
         {
-            StreamWriter sw = new StreamWriter(@"scores.txt");
+            StreamWriter sw = new StreamWriter(@"scores.txt", true);
             sw.Write("");
             sw.Close();
         }
