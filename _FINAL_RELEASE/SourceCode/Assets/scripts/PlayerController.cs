@@ -39,12 +39,6 @@ public class PlayerController : MonoBehaviour
             //death - respawn instantly
             GameController.INSTANCE.WaterCollision();
         }
-        else if (other.gameObject.name == "Terrain" || (other.contacts[0].point.y > init_y && other.gameObject.name != "LevelEnd"))
-        {
-            //landed on object so no longer in the air - can reset jump timer
-            inAir = false;
-            jump_time = jump_time_reset;
-        }
         else if (other.gameObject.name == "LevelEnd")
         {
             //finished level
@@ -54,10 +48,18 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.name == "Terrain")
         {
             audioSrc.clip = walkingOnGrass;
+
+            //landed on object so no longer in the air - can reset jump timer
+            inAir = false;
+            jump_time = jump_time_reset;
         }
         else if (other.gameObject.name.Substring(0, 5) == "Crate")
         {
             audioSrc.clip = walkingOnWood;
+
+            //landed on object so no longer in the air - can reset jump timer
+            inAir = false;
+            jump_time = jump_time_reset;
         }
     }
 
@@ -65,7 +67,7 @@ public class PlayerController : MonoBehaviour
     //this is a runner, so this is important 
     void Update()
     {
-        //used to get value constant throughout update - necessary???
+        //Time.delta_time is used a lot here so cache it
         float delta_time = Time.deltaTime;
 
         //below values are multiples of time.deltatime so needs a multiplier so the player moves in a reasonable manner
